@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Threat Dragon Example"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "My Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
